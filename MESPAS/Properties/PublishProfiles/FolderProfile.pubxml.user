@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Project\DevlopmentEnviornment\PublishMESPAS</_PublishTargetUrl>
+    <History>True|2022-10-17T03:50:48.4243743Z;True|2022-10-14T21:38:35.9156602+09:00;True|2022-09-24T13:21:00.7851772+09:00;False|2022-09-24T13:18:45.1503648+09:00;True|2022-09-23T17:34:11.3884182+09:00;True|2022-01-11T18:03:52.5479819+09:00;True|2022-01-11T17:24:07.2969071+09:00;True|2022-01-11T15:50:35.9322428+09:00;True|2021-12-23T20:43:31.0376331+09:00;True|2021-12-23T18:33:27.3381447+09:00;True|2021-12-07T19:25:49.4697291+09:00;True|2021-12-07T12:40:51.7594255+09:00;True|2021-12-06T22:29:46.5616222+09:00;True|2021-11-29T17:20:43.5500790+09:00;True|2021-11-29T14:23:30.2555205+09:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

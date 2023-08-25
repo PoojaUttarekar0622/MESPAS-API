@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\portal.FUJIJAPAN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\portal.FUJIJAPAN\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}

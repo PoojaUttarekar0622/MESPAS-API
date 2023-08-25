@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MESPAS", "MESPAS\MESPAS.csproj", "{F965F474-C2C0-4243-AFA0-AB4C1D56FA92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helper", "Helper\Helper.csproj", "{0E9BA335-C4CD-44CE-93D0-7D50DBB01F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedular", "Schedular\Schedular.csproj", "{1DAC7A73-65CF-469E-9581-D0112242391B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F965F474-C2C0-4243-AFA0-AB4C1D56FA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F965F474-C2C0-4243-AFA0-AB4C1D56FA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F965F474-C2C0-4243-AFA0-AB4C1D56FA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F965F474-C2C0-4243-AFA0-AB4C1D56FA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9BA335-C4CD-44CE-93D0-7D50DBB01F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9BA335-C4CD-44CE-93D0-7D50DBB01F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9BA335-C4CD-44CE-93D0-7D50DBB01F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9BA335-C4CD-44CE-93D0-7D50DBB01F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAC7A73-65CF-469E-9581-D0112242391B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAC7A73-65CF-469E-9581-D0112242391B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAC7A73-65CF-469E-9581-D0112242391B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAC7A73-65CF-469E-9581-D0112242391B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537B30DD-6BDA-4B22-B336-65E931BA72CB}
+	EndGlobalSection
+EndGlobal

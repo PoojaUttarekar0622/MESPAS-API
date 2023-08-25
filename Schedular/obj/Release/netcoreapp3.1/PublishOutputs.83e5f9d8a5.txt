@@ -1,0 +1,6 @@
+C:\Project\DevlopmentEnviornment\PublishMESPAS\Schedular.exe
+C:\Project\DevlopmentEnviornment\PublishMESPAS\Schedular.dll
+C:\Project\DevlopmentEnviornment\PublishMESPAS\Schedular.deps.json
+C:\Project\DevlopmentEnviornment\PublishMESPAS\Schedular.runtimeconfig.json
+C:\Project\DevlopmentEnviornment\PublishMESPAS\Schedular.pdb
+C:\Project\DevlopmentEnviornment\PublishMESPAS\Newtonsoft.Json.dll

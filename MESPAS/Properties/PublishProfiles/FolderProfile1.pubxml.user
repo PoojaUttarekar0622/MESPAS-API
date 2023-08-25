@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\Pooja\ProjectData\MESPAS\PublishMESPAS</_PublishTargetUrl>
+    <History>True|2022-02-08T06:20:12.6479001Z;True|2022-02-03T11:47:13.8694464+05:30;True|2022-01-25T13:32:23.5938393+05:30;True|2022-01-24T09:41:43.7200420+05:30;True|2022-01-20T17:35:33.4561779+05:30;True|2022-01-20T17:12:09.0032692+05:30;True|2022-01-20T09:43:23.8383530+05:30;True|2022-01-19T11:19:54.3747161+05:30;True|2022-01-19T10:49:29.5348834+05:30;</History>
+  </PropertyGroup>
+</Project>

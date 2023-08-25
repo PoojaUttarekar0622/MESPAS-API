@@ -1,0 +1,6 @@
+F:\Pooja\FTC\PublishMESPAS\Schedular.exe
+F:\Pooja\FTC\PublishMESPAS\Schedular.dll
+F:\Pooja\FTC\PublishMESPAS\Schedular.deps.json
+F:\Pooja\FTC\PublishMESPAS\Schedular.runtimeconfig.json
+F:\Pooja\FTC\PublishMESPAS\Schedular.pdb
+F:\Pooja\FTC\PublishMESPAS\Newtonsoft.Json.dll
